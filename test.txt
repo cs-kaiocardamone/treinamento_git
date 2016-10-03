@@ -6,3 +6,6 @@ b
 
 commit em q.a para server
 commit 2 do server
+commit 3 do server
+primeiro commit client
+segundo commit client

@@ -5,3 +5,20 @@ x
 b
 
 commit em q.a para server
+<<<<<<< ac28cea3d14156523763c98852ced86a4b4432e7
+<<<<<<< 393e0a8e0ca77876f90b6d585ca42b98b099fc19
+commit 2 do server
+commit 3 do server
+=======
+primeiro commit client
+>>>>>>> aplicando mudanças client
+=======
+<<<<<<< 031c708bcb8caa292686857f480efd4707ae93d5
+<<<<<<< 51a09cb7cadd5557ed8e3ce8240f395643e5ce48
+=======
+primeiro commit client
+>>>>>>> merge primeiro commit client em master
+=======
+primeiro commit client
+>>>>>>> meu segundo commit de client
+>>>>>>> trazendo segundo commit
